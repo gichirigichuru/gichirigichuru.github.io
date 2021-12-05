@@ -1,3 +1,6 @@
-h1{
+.aboutMe {
     color: blue;
+    background-color: black;
+    font-size: 100px;
+    border:2px solid red
 }
