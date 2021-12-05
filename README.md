@@ -2,8 +2,11 @@
 
 Zachary Gichiri
 
+# Description
 
-[Link to my portfolio](https://gichirigichuru.github.io/)
+
+
+ This is the [Link to my portfolio](https://gichirigichuru.github.io/)
 
 ```
 Copyright 2021 Zachary Gichiri
